@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @christospvl
 - 👀 I’m interested in becoming full-stack developer
-- 🌱 I’m currently learning HTML, CSS, JavaScript
+- 🌱 I’m currently learning HTML, CSS, JavaScript on TheOdinProject
 - 💞️ I’m looking to collaborate on any company that will provide more knowledge in order to achieve my goal
 - 📫 You can reach me by email on christospav@hotmail.com
--Backstory: I am 25 years old, I have a second mate degree in Merchant Navy but I always loved computers. Over the years I realised that my passion is more orientated towards software than my actual job.
